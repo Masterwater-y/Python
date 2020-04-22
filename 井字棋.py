@@ -1,4 +1,3 @@
-```Python
 import tkinter as tk
 import tkinter.messagebox
 window=tk.Tk()
@@ -78,4 +77,4 @@ for i in range(3):
         chess[3*i+j].grid(row=i,column=j,padx=10,pady=10)
 
 window.mainloop()
-```
+
